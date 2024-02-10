@@ -1,0 +1,17 @@
+def print_lyrics():
+    print("I'm a lumberjack, and I'm okay.")
+    print("I sleep all night and I work all day.")
+
+def print_twice(bruce):
+    print(bruce)
+    print(bruce)
+
+import math
+
+print(print_lyrics)
+
+type(print_lyrics)
+
+print_lyrics()
+
+print_twice(math.pi)
