@@ -1,0 +1,7 @@
+# Phase 1
+
+I decided to make a graphic inspired by my soap business. I wanted to make my soap on a plate with some sparkles.
+
+I first made a 20x20 box on the grid paper so that I could translate the sketch to Processing easier. The box represents the canvas in processing. After that, I poorly drew an ellipse that represents the plate. I plan to have it as an outline and not fill it in inside of Processing. I then drew a square to represent my soap (my soap is cube-shaped) sitting in the middle of the plate. I looked up if you could customize colors in Processing, and I found out that you can!!! This shape will be filled in with a yellow-gold color in Processing.
+
+For the sparkles, I knew I wanted rhombus-like quadrilateral filled in with a white color. I drew a big rhombus in the right hand corner of the soap block and wasn't a big fan of the size, so I erased it and tried a couple other sizes on the left side of the soap block. I decided on a smaller quadrilateral that was 2 blocks high and 1 block wide. I drew three oh these shapes. I started in the right hand corner of the soap, then the left side a little lower than the first one, and then in the middle. The one in the middle looked a little awkward, so I shifted it to the right by 1 block. Happy with my crude drawing, I snapped a pic of it.
