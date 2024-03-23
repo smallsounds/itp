@@ -1,6 +1,6 @@
 # Phase 2
 
-I decided that each box on the physical sketch would represent 10 pixels in Processing. That makes my setup 200x200 pixels. With the Processing reference open in my browser, I set where the top left corner of my square (soap) would be which was the coordinates (60, 70). I then put in my dimensions (80x80). After that, I made the ellipse (plate). I assumed the first two numbers in the set represented the middle of the ellipse, so I got (100, 55). The width of the ellipse was 160 and the height was 50. I ran the script and realized my y-coordinate was wrong because I forgot where the origin was. I ran it again with the y-coordinate set to 145, and it was perfect. 
+I decided that each box on the physical sketch would represent 10 pixels in Processing. That makes my canvas 200x200 pixels. With the Processing reference open in my browser, I set where the top left corner of my square (soap) would be which was the coordinates (60, 70). I then put in my dimensions (80x80). After that, I made the ellipse (plate). I assumed the first two numbers in the set represented the middle of the ellipse, so I got (100, 55). The width of the ellipse was 160 and the height was 50. I ran the script and realized my y-coordinate was wrong because I forgot where the origin was. I ran it again with the y-coordinate set to 145, and it was perfect. 
 
 Now I needed to do the sparkles. For this, I needed to fill my soap with color in order to see the sparkles. For this, I used this [guide](https://processing.org/tutorials/color). I started with this:
 
