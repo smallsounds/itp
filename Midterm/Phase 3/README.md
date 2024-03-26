@@ -18,6 +18,7 @@ I started Phase 3 by changing my canvas to 400x400 pixels. I then used the examp
         quad(70, 90, 75, 100, 70, 110, 65, 100);
         quad(130, 80, 135, 90, 130, 100, 125, 90);
         quad(110, 120, 115, 130, 110, 140, 105, 130);
+        pop()
 
     def draw():
         drawObject(0, 0, 1)
