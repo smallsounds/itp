@@ -1,5 +1,5 @@
 def setup():
-    size(710, 710)
+    size(400, 400)
     noStroke()
     
 def drawObject(x, y, s):
@@ -17,6 +17,9 @@ def drawObject(x, y, s):
     pop()
 
 def draw():
-    for p in range(10):
-        for k in range(10):
-            drawObject(70*p,k*70,0.4);
+    i=5
+    h=height / i
+    s=h / 200.0
+    for p in range(i):
+        for k in range(i):
+            drawObject(h*p,h*k,s);
