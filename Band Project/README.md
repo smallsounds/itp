@@ -1,6 +1,6 @@
 # Band Project
 
-Click [here](oldshoes3.github.io) to access the "The Band" band's website!
+Click [here](https://oldshoes3.github.io/) to access the "The Band" band's website!
 
 ## Process
 
